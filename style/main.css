@@ -1,0 +1,162 @@
+:root{
+    --vermelho:#E50914;
+    --preto:#141414;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Elementos de base*/
+body{
+    background: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
+    color: white
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px 10px 0px;
+    background-color: black;
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    padding-left: 30px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+    font-family: 'Nunito', sans-serif;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+/*Jogo Principal*/
+.jogo-principal{
+    font-size: 16px;
+    background: linear-gradient(  64deg, black 18%, black 15%, transparent), url('/img/gta3.jpg');
+
+    height: 500px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start ;
+}
+
+.jogo-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.jogo-principal .container{
+    width: 650px;
+    margin-left: 30px;
+}
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
+
+.botao i{
+    margin-right: 8px;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.jogo-principal .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+}
+
+/*Carrosséis*/
+.titulo-carrosel{
+    padding: 7px 7px 7px 30px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 12px;
+}
+
+.titulo-carrosel2{
+    padding-left: 30px;
+    padding-bottom: 7px;
+    padding-top: 0px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 12px;
+}
+
+.titulo-carrosel3{
+    padding-left: 30px;
+    padding-bottom: 7px;
+    padding-top: 0px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 12px;
+}
+
+.titulo-carrosel4{
+    padding-left: 30px;
+    padding-bottom: 7px;
+    padding-top: 0px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 12px;
+}
+
+
+.box-jogo{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-jogos{
+    margin: 15px;
+}
+
+/*Footer*/
+.container-footer{
+    background-color: black;
+    color: #AAA;
+    font-family: 'Shippori Antique B1', sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
