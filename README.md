@@ -10,7 +10,7 @@ Site com os melhores jogos, baseado na Netflix
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](file:///C:/Users/jotin/Downloads/banner.png#vitrinedev)
 
 ## Detalhes do projeto
 
