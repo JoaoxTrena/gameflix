@@ -14,5 +14,5 @@ Site com os melhores jogos, baseado na Netflix
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto feito no Bootcamp Take Blip da plataforma DIO, que reúne todos os jogos, que considero os melhores, das mais famosas empresas desenvolvedoreas de games.
 
