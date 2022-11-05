@@ -6,7 +6,7 @@ Site com os melhores jogos, baseado na Netflix
 | -------------  | --- |
 | :sparkles: Nome        | Gameflix
 | :label: Tecnologias | HTML, CSS, Javascript
-| :rocket: URL         | 
+| :rocket: URL         | https://gameflix-joaovmsdev.netlify.app/
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
