@@ -1,6 +1,6 @@
 # Projeto Gameflix
 
-Site com os melhores jogos, baseado na Netflix
+Projeto final realizado no Bootcamp Take Blip Web Developer da plataforma DIO
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -13,5 +13,19 @@ Site com os melhores jogos, baseado na Netflix
 
 ## Detalhes do projeto
 
-Projeto feito no Bootcamp Take Blip da plataforma DIO, que reúne todos os jogos, que considero os melhores, das mais famosas empresas desenvolvedoreas de games.
+O Gameflix é uma aolicação web front-end inspirada na empresa de streaming Netflix. Nele estão contidas os melhores jogos das maiores desenvolvedoras do mundo. 
+
+Para sua confecção, foram utilizadas as tecnologias HTML, CSS, JavaScript e Bootstrap. Para exibir os jogos foi utilizado o elemento carousel, do bootstrap, permitindo que o usuário possa vizualizar os vários jogos de maniera simples e eficaz, assim como no Netflix. 
+
+O banner inicial apresenta o jogo Grand Theaft Auto, juntamente com um efeito "degradê" preto da esquerada para direita (Deu um trabalhinho para fazer isso (: )
+
+O vídeo abaixo apresenta a plataforma completa.
+
+https://github.com/user-attachments/assets/1135bb60-d9ee-471b-be2b-1ecc7467d3ea
+
+
+
+
+
+
 
